@@ -1,0 +1,29 @@
+{
+    "name": "date-formatter",
+    "version": "1.0.0",
+    "description": "A date formatter package for react",
+    "main": "useFormatDate.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Cphasanulbanna/react-date-formator.git"
+    },
+    "keywords": [
+        "date",
+        "formatter",
+        "react-date-formatter",
+        "date",
+        "date-input"
+    ],
+    "author": "hasanul banna",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Cphasanulbanna/react-date-formator/issues"
+    },
+    "homepage": "https://github.com/Cphasanulbanna/react-date-formator#readme",
+    "dependencies": {
+        "react": "^18.2.0"
+    }
+}
