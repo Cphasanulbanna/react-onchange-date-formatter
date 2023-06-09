@@ -1,6 +1,6 @@
 {
     "name": "react-onchange-date-formatter",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A date formatter package for react",
     "main": "useFormatDate.js",
     "scripts": {
