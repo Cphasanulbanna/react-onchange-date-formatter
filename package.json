@@ -14,7 +14,7 @@
         "date",
         "formatter",
         "react-date-formatter",
-        "date",
+        "react-onchange-date-formatter",
         "date-input"
     ],
     "author": "hasanul banna",
